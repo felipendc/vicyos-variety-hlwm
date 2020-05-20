@@ -1,1 +1,1 @@
-/home/vicyos/.config/herbstluftwm/bluesky_vicyos.jpg
+/usr/share/backgrounds/vicyos-wallpapers/bluesky_vicyos.jpg
